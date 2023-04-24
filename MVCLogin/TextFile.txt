@@ -1,0 +1,9 @@
+﻿Bir login formu olacak
+menuden login butonuna basıldığında eğer kullanıcı adı/şifresi doğruysa tebrikler (Congrat)
+sayfası 
+ekrana gelsim, eğer yanlışsa başarısız(LoginError) sayfası gelsin
+model kullanma yapılacak Login.cs (UserId,UserPass isimli propertiler olacak)
+Model sınıfının içinde(UserID=admin UserPass=1234)
+
+
+
